@@ -1,3 +1,4 @@
+THIS IS NOT MINE. I DO NOT IN ANY WAY TAKE CREDIT FOR THIS. https://github.com/ata4/bspsrc/releases
 BSPSource
 =========
 
